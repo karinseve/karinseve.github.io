@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Karin Sevegnani"
   avatar           : "karin-bio.jpg"
-  bio              : "PhD Candidate @ Heriot-Watt University and University of Edinburgh. 
-                      Working on Knowledge-Grounded Open-Domain Dialogue."
+  bio              : "PhD Candidate @ Heriot-Watt University and University of Edinburgh."
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MNbMFssAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "karin [dot] sevegnani [at] hw [dot] ac [dot] uk"
   researchgate     :  "https://www.researchgate.net/profile/Karin-Sevegnani"
   uri              :
   bitbucket        :
