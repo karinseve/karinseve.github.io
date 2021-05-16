@@ -21,13 +21,13 @@ Bangkok, Thailand, 2021 <br />
 
 
 <strong>Automatic Quality Estimation for Natural Language Generation: Ranting (Jointly Rating and Ranking)</strong> <br />
-Du&scaron;ek, O., Sevegnani, K., Konstas, I., Rieser, V. <br />
+Dusek, O., Sevegnani, K., Konstas, I., Rieser, V. <br />
 In <i> Proceedings of 12th International Conference on Natural Language Generation (INLG 2019)</i>. <br />
 Tokyo, Japan, 2019 <br />
 [Paper](https://arxiv.org/pdf/1910.04731.pdf)
 
 <strong>Noise and Neural Natural Language Generation: Rubbish in, Rubbish out?</strong> <br />
-Howcroft, D. M., Sevegnani, K., Du&scaron;ek, O., Rieser, V. <br />
+Howcroft, D. M., Sevegnani, K., Dusek, O., Rieser, V. <br />
 Accepted abstract in <i>EurNLP</i> 2019 <br />
 London, 2019 <br />
 [Paper](https://davehowcroft.com/abstracts/2019-10_eurnlp_noise-and-neural-natural-language-generation.pdf), [Poster](https://davehowcroft.com/posters/2019-10_eurnlp_noise-and-neural-natural-language-generation.pdf)
