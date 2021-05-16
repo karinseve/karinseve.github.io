@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Robotics and Autonomous Systems, [Heriot-Watt University and University of Edinburgh](https://www.edinburgh-robotics.org/programme-information-2014-2018-cohorts), September 2019 - ongoing
+* [DeepLearn 2019](https://irdta.eu/deeplearn2019/) Summer School, July 2019
+* M.Sc. in Robotics and Autonomous Systems, [Heriot-Watt University and University of Edinburgh](https://www.edinburgh-robotics.org/programme-information-2014-2018-cohorts), September 2018 - August 2019
+* M.Sc. in Artificial Intelligence, [Heriot-Watt University](https://www.hw.ac.uk/uk/study/postgraduate/artificial-intelligence.htm), September 2017 - August 2018
+* Machine Learning Course, by Andrew Ng on [Coursera](https://www.coursera.org/learn/machine-learning), March 2017 - June 2017
+* B.Sc. in Computer Science, [University of Trento](https://www.disi.unitn.it/), September 2012 - July 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Applied Scientist Intern
+  * Amazon AI
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2020: Marker Position
+  * University of Edinburgh
+  * Course: Algorithms and Data Structures
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Summer 2018: Research Assistant
+  * Amazon Alexa Prize, Heriot-Watt University team
+  * Focus: Abuse Detection and Mitigation in Conversational Agents
+  * Supervisor: Professor Verena Rieser
