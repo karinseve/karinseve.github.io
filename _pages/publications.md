@@ -13,7 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conference
 
-<strong>OTTers &#x1F9A6;: One-turn Topic Transitions for Open-Domain Dialogue</strong> <br />
+<strong>OTTers: One-turn Topic Transitions for Open-Domain Dialogue</strong> <br />
 Sevegnani, K., Howcroft, D. M., Konstas, I., Rieser, V. <br />
 In <i> Proceedings of 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)</i>. <br />
 Bangkok, Thailand, 2021 <br />
