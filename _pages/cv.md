@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Robotics and Autonomous Systems, [Heriot-Watt University and University of Edinburgh](https://www.edinburgh-robotics.org/programme-information-2014-2018-cohorts), September 2019 - ongoing
+* Ph.D. in Robotics and Autonomous Systems, [Heriot-Watt University and University of Edinburgh](https://www.edinburgh-robotics.org/programme-information-2014-2018-cohorts), Supervised by: Verena Rieser and Ioannis Konstas, September 2019 - ongoing
 * [DeepLearn 2019](https://irdta.eu/deeplearn2019/) Summer School, July 2019
 * M.Sc. in Robotics and Autonomous Systems, [Heriot-Watt University and University of Edinburgh](https://www.edinburgh-robotics.org/programme-information-2014-2018-cohorts), September 2018 - August 2019
 * M.Sc. in Artificial Intelligence, [Heriot-Watt University](https://www.hw.ac.uk/uk/study/postgraduate/artificial-intelligence.htm), September 2017 - August 2018
